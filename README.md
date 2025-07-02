@@ -42,8 +42,12 @@ Para ejecutar el proyecto:
 
 ---
 
-## Imagen
+## Imagen Sets
 
 ![Resultado](./capturas_sets.png)
+
+## Imagen Comparador Contactos
+
+![Resultado](./captura_contactos.png)
 
 
