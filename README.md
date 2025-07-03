@@ -50,4 +50,8 @@ Para ejecutar el proyecto:
 
 ![Resultado](./captura_contactos.png)
 
+## Imagen Ejercicios
+
+![Resultado](./captura_ejercicios.png)
+
 
